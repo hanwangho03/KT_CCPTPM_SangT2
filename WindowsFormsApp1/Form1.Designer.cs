@@ -40,9 +40,9 @@
             this.lbUserName.AutoSize = true;
             this.lbUserName.Location = new System.Drawing.Point(99, 132);
             this.lbUserName.Name = "lbUserName";
-            this.lbUserName.Size = new System.Drawing.Size(73, 16);
+            this.lbUserName.Size = new System.Drawing.Size(92, 16);
             this.lbUserName.TabIndex = 0;
-            this.lbUserName.Text = "UserName";
+            this.lbUserName.Text = "tên đăng nhập";
             // 
             // txtUserName
             // 
@@ -56,9 +56,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(102, 172);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(67, 16);
+            this.label1.Size = new System.Drawing.Size(61, 16);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Password";
+            this.label1.Text = "mật khẩu";
             // 
             // txtpassword
             // 
